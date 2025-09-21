@@ -4,6 +4,8 @@
 my-app/node_modules
 my-app/.pnp
 my-app/.pnp.js
+my-app/package-lock.json
+my-app/yarn.lock
 
 # testing
 my-app/coverage
