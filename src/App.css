@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-button {
+  background-color: #fff;
+  color: #2e3a59;
+  border: 2px solid #2e3a59;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-size: 1.2rem;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+.custom-button:hover {
+  background-color: #2e3a59;
+  color: #b6fbff;
+  border: 2px solid #b6fbff;
+}
+
