@@ -12,7 +12,7 @@ my-app/coverage
 my-app/build
 
 # misc
-my-app/.DS_Store
+.DS_Store
 my-app/.env.local
 my-app/.env.development.local
 my-app/.env.test.local
