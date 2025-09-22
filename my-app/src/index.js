@@ -4,11 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Shopping from './Shopping.jsx'
+import Hudar from './Hudar.jsx'
+import FruitList from './Components/FruitList.jsx'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Shopping />
+    <FruitList />
   </React.StrictMode>
 );
 
